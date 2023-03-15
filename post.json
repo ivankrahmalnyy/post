@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "author": "test1123",
+        "comment": [],
+        "title": "das",
+        "text": "ывф",
+        "image": null,
+        "created_at": "2023-03-14T17:26:31.983313Z",
+        "updated_at": "2023-03-14T17:26:31.983313Z"
+    },
+    {
+        "id": 2,
+        "author": "test1123",
+        "comment": [],
+        "title": "das",
+        "text": "ывф",
+        "image": null,
+        "created_at": "2023-03-14T17:38:43.755623Z",
+        "updated_at": "2023-03-14T17:38:43.755623Z"
+    },
+    {
+        "id": 3,
+        "author": "test1123",
+        "comment": [
+            "dsfs1"
+        ],
+        "title": "ыфв",
+        "text": "ыв",
+        "image": null,
+        "created_at": "2023-03-14T18:51:05.579030Z",
+        "updated_at": "2023-03-14T18:51:05.579030Z"
+    },
+    {
+        "id": 4,
+        "author": "test1",
+        "comment": [],
+        "title": "sad",
+        "text": "dsa",
+        "image": null,
+        "created_at": "2023-03-14T18:59:52.302030Z",
+        "updated_at": "2023-03-14T18:59:52.302030Z"
+    },
+    {
+        "id": 5,
+        "author": "Ivan",
+        "comment": [],
+        "title": "ясыва",
+        "text": "выавыа",
+        "image": null,
+        "created_at": "2023-03-14T19:18:06.302436Z",
+        "updated_at": "2023-03-14T19:18:06.302436Z"
+    },
+    {
+        "id": 6,
+        "author": "test2",
+        "comment": [
+            "dsfs1"
+        ],
+        "title": "название",
+        "text": "фа",
+        "image": null,
+        "created_at": "2023-03-15T11:53:45.097107Z",
+        "updated_at": "2023-03-15T11:53:45.097107Z"
+    },
+    {
+        "id": 7,
+        "author": "test1",
+        "comment": [
+            "dsfs1"
+        ],
+        "title": "название",
+        "text": "фа",
+        "image": null,
+        "created_at": "2023-03-15T11:54:46.361169Z",
+        "updated_at": "2023-03-15T11:54:46.361169Z"
+    }
+]
